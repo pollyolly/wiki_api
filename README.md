@@ -13,6 +13,12 @@ package.json
 
 $npm start
 ```
+### GENERATE TOKENS
+```
+$node
+Welcome to Node.js v16.15.0.
+>require("crypto").randomBytes(64).toString("hex")
+```
 ### SCHEMA
 ```
 CREATE DATABASE wiki_api;
