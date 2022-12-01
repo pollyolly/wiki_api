@@ -13,7 +13,7 @@ package.json
 
 $npm start
 ```
-### GENERATE TOKENS
+### GENERATE TOKEN
 ```
 $node
 Welcome to Node.js v16.15.0.
